@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">SimpleMenu</string>
-    <string name="action_settings">name</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_red">Red</string>
+<string name="title_yellow">Yellow</string>
+<string name="title_blue">Blue</string>
+<string name="title_green">Green</string>
+    <string name="title_purple">Purple</string>
+
 </resources>
