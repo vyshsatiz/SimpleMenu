@@ -3,8 +3,8 @@
 
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:id="@+id/id_red_color"
-        android:title="@string/title_red"
+    <item android:id="@+id/id_pink_color"
+        android:title="Pink"
         ></item>
 
     <item android:id="@+id/id_blue_color"
@@ -13,14 +13,6 @@
 
     <item android:id="@+id/id_yellow_color"
         android:title="@string/title_yellow"
-        ></item>
-
-    <item android:id="@+id/id_green_color"
-        android:title="@string/title_green"
-        ></item>
-
-    <item android:id="@+id/id_purple_color"
-        android:title="@string/title_purple"
         ></item>
 
 
